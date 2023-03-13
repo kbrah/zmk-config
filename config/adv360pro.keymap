@@ -4,7 +4,7 @@
 /* map 360's extra keys */
 #define X_LT    &kp EQUAL &kp F1 &kp F2 &kp F3 &kp F4 &kp F5 &kp F11     &kp F12 &kp F6 &kp F7 &kp F8 &kp F9 &kp F10 &kp MINUS \
                 &kp TAB
-#define X_MT    &tog 1 &tog 0
+#define X_MT    &to 1 &to 0
 #define X_RT    &kp BSLH
 
 #define X_LM    &kp ESC
